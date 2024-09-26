@@ -117,7 +117,7 @@ function App() {
   return (
       <>
         <div className="download-section">
-          <h2>Download File</h2>
+          <h2>Download File </h2>
           <div className="input-group">
             <label htmlFor="fileName">File Name:</label>
             <input
